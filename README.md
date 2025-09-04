@@ -8,8 +8,8 @@ The app supports **CRUD operations**: Create, Read, Update, and Delete notes.
 
 ## 📂 Repository Structure
 
-- **[notes-app-backend]([../notes-app-backend](https://github.com/DeepankSingh/notes-app-backend))** → Spring Boot backend code  
-- **[notes-app-frontend]([../notes-app-frontend](https://github.com/DeepankSingh/notes-app-frontend))** → React frontend code  
+- **[notes-app-backend](https://github.com/DeepankSingh/notes-app-backend)** → Spring Boot backend code  
+- **[notes-app-frontend](https://github.com/DeepankSingh/notes-app-frontend)** → React frontend code  
 - **[mono-repo (this repo)](https://github.com/DeepankSingh/SimpleNotes)** → Documentation and links  
 
 ---
