@@ -16,7 +16,7 @@ The app supports **CRUD operations**: Create, Read, Update, and Delete notes.
 
 ## 🚀 Live Demo
 
-- **Frontend (Netlify)** → [Click Here]([https://your-netlify-link](https://notes-app-frontend-ebon.vercel.app/))  
+- **Frontend (Netlify)** → [Click Here](https://notes-app-frontend-ebon.vercel.app/)
 - **Backend (Render)** → [Click Here](https://notes-app-backend-1-934u.onrender.com)  
 
 ---
