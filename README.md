@@ -16,8 +16,8 @@ The app supports **CRUD operations**: Create, Read, Update, and Delete notes.
 
 ## 🚀 Live Demo
 
-- **Frontend (Netlify)** → [Click Here](https://your-netlify-link)  
-- **Backend (Render)** → [Click Here](https://your-render-link)  
+- **Frontend (Netlify)** → [Click Here]([https://your-netlify-link](https://notes-app-frontend-ebon.vercel.app/))  
+- **Backend (Render)** → [Click Here](https://notes-app-backend-1-934u.onrender.com)  
 
 ---
 
@@ -33,7 +33,7 @@ The app supports **CRUD operations**: Create, Read, Update, and Delete notes.
 
 ## 📡 API Endpoints (Backend)
 
-Base URL → `https://render-link/api/notes`
+Base URL → `https://notes-app-backend-1-934u.onrender.com/api/notes`
 
 | Method | Endpoint         | Description          | Request Body               |
 |--------|-----------------|----------------------|----------------------------|
